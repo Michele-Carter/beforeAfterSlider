@@ -1,4 +1,7 @@
 <script>
+  
+console.log("beforeAfterSlider.js is loaded");
+
 function initComparisons() {
   var comparisons = [
     {
